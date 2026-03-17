@@ -45,8 +45,8 @@ Visualização organizada por categorias expansíveis
 Painel com contadores de categorias e produtos
 
 
-🚀 Como rodar o projeto
-Pré-requisitos
+# 🚀 Como rodar o projeto
+# Pré-requisitos
 
 Node.js instalado
 Expo CLI instalado
