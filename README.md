@@ -45,25 +45,6 @@ Visualização organizada por categorias expansíveis
 Painel com contadores de categorias e produtos
 
 
-🧭 Estrutura do Projeto
-acailandia-app/
-├── src/
-│   ├── screens/
-│   │   ├── SplashScreen.js       
-│   │   ├── DeliveryScreen.js    
-│   │   ├── StoresScreen.js       
-│   │   ├── LoginScreen.js       
-│   │   └── AdminScreen.js      
-│   ├── navigation/
-│   │   └── AppNavigator.js      
-│   ├── components/              
-│   ├── assets/               
-│   ├── services/                
-│   └── styles/                   
-├── App.js
-├── app.json
-└── package.json
-
 🚀 Como rodar o projeto
 Pré-requisitos
 
