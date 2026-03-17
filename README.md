@@ -49,17 +49,17 @@ Painel com contadores de categorias e produtos
 acailandia-app/
 ├── src/
 │   ├── screens/
-│   │   ├── SplashScreen.js       # Tela inicial
-│   │   ├── DeliveryScreen.js     # Cardápio e pedidos
-│   │   ├── StoresScreen.js       # Mapa e lojas
-│   │   ├── LoginScreen.js        # Login do admin
-│   │   └── AdminScreen.js        # Painel de gestão
+│   │   ├── SplashScreen.js       
+│   │   ├── DeliveryScreen.js    
+│   │   ├── StoresScreen.js       
+│   │   ├── LoginScreen.js       
+│   │   └── AdminScreen.js      
 │   ├── navigation/
-│   │   └── AppNavigator.js       # Configuração de rotas
-│   ├── components/               # Componentes reutilizáveis
-│   ├── assets/                   # Imagens e ícones
-│   ├── services/                 # Integrações externas
-│   └── styles/                   # Tema e estilos globais
+│   │   └── AppNavigator.js      
+│   ├── components/              
+│   ├── assets/               
+│   ├── services/                
+│   └── styles/                   
 ├── App.js
 ├── app.json
 └── package.json
